@@ -5,9 +5,9 @@ import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
+import Travel from "../../Assets/Projects/travel.png";
 import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import QuizMaker from "../../Assets/Projects/QuizMaker.png";
 
 function Projects() {
   return (
@@ -23,23 +23,23 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={Travel}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="Travel"
+              description="Web de Turismo hecha con React.js que muestra destinos de viajes y contiene un fomrulario para la creacion de usarios con todos los metodos de verificacion necesarios"
+              ghLink="https://github.com/brunocami/travel_planner"
+              demoLink="https://brunocami.github.io/travel_planner/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={QuizMaker}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Quiz Maker"
+              description="Pequeño projecto para crear un quiz de preguntas multiple choice con diferentes dificultades y temas. Hechp con React.js y conusme una api que proporciona las preguntas y respuestas necesarias"
+              ghLink="https://github.com/brunocami/quiz"
+              demoLink="https://brunocami.github.io/quiz/"
             />
           </Col>
 
