@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Portfolio-28-06-2023/static/css/main.b1a1e15e.css",
-    "main.js": "/Portfolio-28-06-2023/static/js/main.01d84354.js",
+    "main.js": "/Portfolio-28-06-2023/static/js/main.ef3422bd.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio-28-06-2023/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio-28-06-2023/static/js/787.1ed0c42c.chunk.js",
-    "static/media/travel.png": "/Portfolio-28-06-2023/static/media/travel.7b17f5e4144e17f64553.png",
+    "static/media/travel.png": "/Portfolio-28-06-2023/static/media/travel.46f9dc3d7884eb3556ed.png",
     "static/media/oneminutenews.png": "/Portfolio-28-06-2023/static/media/oneminutenews.3bf31550e45383c455df.png",
     "static/media/DIPLOMA-FullStackWeb.pdf": "/Portfolio-28-06-2023/static/media/DIPLOMA-FullStackWeb.ab21c8eb06e0172cc524.pdf",
     "static/media/home-main.svg": "/Portfolio-28-06-2023/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
@@ -17,12 +17,12 @@
     "static/media/pre.svg": "/Portfolio-28-06-2023/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio-28-06-2023/index.html",
     "main.b1a1e15e.css.map": "/Portfolio-28-06-2023/static/css/main.b1a1e15e.css.map",
-    "main.01d84354.js.map": "/Portfolio-28-06-2023/static/js/main.01d84354.js.map",
+    "main.ef3422bd.js.map": "/Portfolio-28-06-2023/static/js/main.ef3422bd.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio-28-06-2023/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio-28-06-2023/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1a1e15e.css",
-    "static/js/main.01d84354.js"
+    "static/js/main.ef3422bd.js"
   ]
 }
