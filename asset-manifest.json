@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-28-06-2023/static/css/main.b1a1e15e.css",
-    "main.js": "/Portfolio-28-06-2023/static/js/main.ef3422bd.js",
+    "main.js": "/Portfolio-28-06-2023/static/js/main.35f43489.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio-28-06-2023/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio-28-06-2023/static/js/787.1ed0c42c.chunk.js",
     "static/media/travel.png": "/Portfolio-28-06-2023/static/media/travel.46f9dc3d7884eb3556ed.png",
@@ -10,19 +10,19 @@
     "static/media/home-main.svg": "/Portfolio-28-06-2023/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/Portfolio-28-06-2023/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/DIPLOMA_DATASCIENCE.pdf": "/Portfolio-28-06-2023/static/media/DIPLOMA_DATASCIENCE.8efe20ef8c2e980e82a1.pdf",
-    "static/media/CV_BRUNO_CAMI.pdf": "/Portfolio-28-06-2023/static/media/CV_BRUNO_CAMI.913bb0986091226b22fa.pdf",
+    "static/media/CV_BRUNO_CAMI.pdf": "/Portfolio-28-06-2023/static/media/CV_BRUNO_CAMI.c12b60863ae06c0eebff.pdf",
     "static/media/QuizMaker.png": "/Portfolio-28-06-2023/static/media/QuizMaker.1344a9b1b71ee3607543.png",
     "static/media/home-bg.jpg": "/Portfolio-28-06-2023/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/avatar.svg": "/Portfolio-28-06-2023/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/Portfolio-28-06-2023/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio-28-06-2023/index.html",
     "main.b1a1e15e.css.map": "/Portfolio-28-06-2023/static/css/main.b1a1e15e.css.map",
-    "main.ef3422bd.js.map": "/Portfolio-28-06-2023/static/js/main.ef3422bd.js.map",
+    "main.35f43489.js.map": "/Portfolio-28-06-2023/static/js/main.35f43489.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio-28-06-2023/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio-28-06-2023/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1a1e15e.css",
-    "static/js/main.ef3422bd.js"
+    "static/js/main.35f43489.js"
   ]
 }
