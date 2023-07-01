@@ -12,7 +12,7 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          Algunos de mis ultimos <strong className="purple">Proyectos </strong>
+          Algunos de mis ultimos <strong className="purple">Proyectos</strong>
         </h1>
         <p style={{ color: "white" }}>
           Here are a few projects I've worked on recently.
@@ -26,7 +26,7 @@ function Projects() {
               title="OneMinuteNews"
               description="Blog de noticias que consume noticias de una api llamada Medistack y usa la api de openai para crear un resumen de la noticia seleccionada. El front end esta desarrollado con ReactJs y el back end esta hecho con python y Flask"
               ghLink="https://github.com/brunocami/news_portal_frontend"
-              demoLink="oneminutenews.online"
+              demoLink="http://oneminutenews.online"
             />
           </Col>
 
